@@ -1,0 +1,257 @@
+// !$*UTF8*$!
+{
+	0BE69CF813C3F7CE006B835E /* UIImagePickerControllerTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIImagePickerControllerTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	0BE69D0313C3F7D7006B835E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0BE69D0413C3F7D7006B835E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0BE69D8113C40218006B835E /* UIImagePickerController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIImagePickerController.h;
+		path = /Users/la/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIImagePickerController.h;
+		sourceTree = "<absolute>";
+	};
+	0BE69D8713C4025A006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BE69D8113C40218006B835E /* UIImagePickerController.h */;
+		name = "UIImagePickerController.h: 16";
+		rLen = 51;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 1505;
+		vrLoc = 0;
+	};
+	0BE69DC313C40650006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UIImagePickerControllerTest.m */;
+		name = "photppickAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1605;
+		vrLoc = 0;
+	};
+	0BE69DD113C40715006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BE69DD213C40715006B835E /* UIViewController.h */;
+		name = "UIViewController.h: 135";
+		rLen = 199;
+		rLoc = 6363;
+		rType = 0;
+		vrLen = 4033;
+		vrLoc = 5047;
+	};
+	0BE69DD213C40715006B835E /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Users/la/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	0BE69DE513C40E5A006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0BE69DE613C40E5A006B835E /* UIPopoverController.h */;
+		name = "UIPopoverController.h: 29";
+		rLen = 44;
+		rLoc = 805;
+		rType = 0;
+		vrLen = 1654;
+		vrLoc = 0;
+	};
+	0BE69DE613C40E5A006B835E /* UIPopoverController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIPopoverController.h;
+		path = /Users/la/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPopoverController.h;
+		sourceTree = "<absolute>";
+	};
+	0BE69DF713C412C4006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UIImagePickerControllerTest.h */;
+		name = "UIImagePickerControllerTest.h: 15";
+		rLen = 0;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 487;
+		vrLoc = 0;
+	};
+	0BE69E0213C413F7006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PhotoPickerViewController.h */;
+		name = "PhotoPickerViewController.h: 17";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 0;
+	};
+	0BE69E0313C413F7006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoPickerViewController.m */;
+		name = "PhotoPickerViewController.m: 107";
+		rLen = 23;
+		rLoc = 5634;
+		rType = 0;
+		vrLen = 1783;
+		vrLoc = 2858;
+	};
+	0BE69E0A13C4141E006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoPickerViewController.m */;
+		name = "PhotoPickerViewController.m: 124";
+		rLen = 0;
+		rLoc = 5007;
+		rType = 0;
+		vrLen = 2355;
+		vrLoc = 2802;
+	};
+	0BE69E1113C4147D006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoPickerViewController.m */;
+		name = "PhotoPickerViewController.m: 158";
+		rLen = 23;
+		rLoc = 5634;
+		rType = 0;
+		vrLen = 1430;
+		vrLoc = 5011;
+	};
+	0BE69E4213C41863006B835E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PhotoPickerViewController.m */;
+		name = "PhotoPickerViewController.m: 158";
+		rLen = 23;
+		rLoc = 5634;
+		rType = 0;
+		vrLen = 1992;
+		vrLoc = 3616;
+	};
+	1D3623240D0F684500981E51 /* UIImagePickerControllerTest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1497, 754}}";
+			sepNavSelRange = "{299, 23}";
+			sepNavVisRange = "{0, 487}";
+		};
+	};
+	1D3623250D0F684500981E51 /* UIImagePickerControllerTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1025}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1605}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UIImagePickerControllerTest */ = {
+		activeExec = 0;
+		executables = (
+			0BE69CF813C3F7CE006B835E /* UIImagePickerControllerTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PhotoPickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1497, 754}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PhotoPickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1497, 5861}}";
+			sepNavSelRange = "{5634, 23}";
+			sepNavVisRange = "{3616, 1992}";
+			sepNavWindowFrame = "{{15, 58}, {932, 1000}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0BE69CF813C3F7CE006B835E /* UIImagePickerControllerTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIImagePickerControllerTest */;
+		breakpoints = (
+		);
+		codeSenseManager = 0BE69D0413C3F7D7006B835E /* Code sense */;
+		executables = (
+			0BE69CF813C3F7CE006B835E /* UIImagePickerControllerTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1319,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331618395;
+			PBXWorkspaceStateSaveDate = 331618395;
+		};
+		perUserProjectItems = {
+			0BE69D8713C4025A006B835E = 0BE69D8713C4025A006B835E /* PBXTextBookmark */;
+			0BE69DC313C40650006B835E = 0BE69DC313C40650006B835E /* PBXTextBookmark */;
+			0BE69DD113C40715006B835E = 0BE69DD113C40715006B835E /* PBXTextBookmark */;
+			0BE69DE513C40E5A006B835E = 0BE69DE513C40E5A006B835E /* PBXTextBookmark */;
+			0BE69DF713C412C4006B835E = 0BE69DF713C412C4006B835E /* PBXTextBookmark */;
+			0BE69E0213C413F7006B835E = 0BE69E0213C413F7006B835E /* PBXTextBookmark */;
+			0BE69E0313C413F7006B835E = 0BE69E0313C413F7006B835E /* PBXTextBookmark */;
+			0BE69E0A13C4141E006B835E = 0BE69E0A13C4141E006B835E /* PBXTextBookmark */;
+			0BE69E1113C4147D006B835E = 0BE69E1113C4147D006B835E /* PBXTextBookmark */;
+			0BE69E4213C41863006B835E /* PBXTextBookmark */ = 0BE69E4213C41863006B835E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0BE69D0313C3F7D7006B835E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
